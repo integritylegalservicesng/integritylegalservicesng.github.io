@@ -1,0 +1,10 @@
+action="https://iotresearch.000webhostapp.com/mail.php" method="post" role="form"
+
+              <div class="my-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+              </div>
+
+
+              class="php-email-form"
